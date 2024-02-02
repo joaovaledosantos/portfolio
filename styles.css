@@ -232,5 +232,26 @@ footer p {
 	width: 80%;
 	margin-top: 30px;
 }
+/*FINAL SOBRE*/
 
+/*INICIO PROJETO*/
+.projects IMG{
+	width: 27.5%;
+  }
+/* FIM PROJETOS */
+
+/*INICIO RODAPE*/
+ footer{
+ 	flex-direction: column;
+ }
+
+ footer h3{
+ 	font-size: 24px;
+ 	margin-bottom: 8px;
+ }
+
+ footer p{
+ 	margin: 0;
+ }
+/*FIM RODAPE */
 }
